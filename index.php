@@ -7,7 +7,7 @@
 <body>
     <div class="login-container">
         <form action="login_process.php" method="POST">
-            <img src="img/logo.png" class="logo" style="width:50%">
+            <img src="img/logo.png" class="logo" style="width:50%" alt="company logo">
             <h1>Login</h1>
             <h2 style="font-size:140%">Employee Leave Management System</h2>
             <input type="text" name="userid" placeholder="User ID" required>
@@ -22,4 +22,5 @@
         </form>
     </div>
 </body>
+
 </html>
